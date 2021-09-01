@@ -29,10 +29,19 @@ You will also need to install the necessary dependencies, in this case they are:
 
 To install tqdm, open a terminal or cmd and type the following command:
 
-`pip install tqdm`
+    pip install tqdm
 
 > If there is any other problem with another dependency we will use the
 > same command but changing the name of the dependency.
+
+### Adb and fastboot
+To use the tool you must have the adb and fastboot drivers installed. 
+#### Windows
+https://forum.xda-developers.com/t/official-tool-windows-adb-fastboot-and-drivers-15-seconds-adb-installer-v1-4-3.2588979/
+
+#### Ubuntu
+
+
 
 ## Getting started in Windows
 First we download the folder with the code in zip format or we make a clone using git
@@ -67,3 +76,6 @@ Now open a terminal in the folder containing the app.py file and type the follow
 
 ## Video-guide installing MIUI 12.5 
 https://youtu.be/LtCEpc4mPiQ
+
+## Other versions
+You can download other versions on releases section
