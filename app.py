@@ -1,10 +1,6 @@
 import os
 import time
-import subprocess
 import requests
-import progressbar
-import urllib3 
-import pathlib
 from tqdm import tqdm
 import math
 
